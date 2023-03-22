@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.joinBtn {
+#btn {
     width: 10em;
     height: 5ex;
     background-color: black;
@@ -11,7 +11,7 @@
     cursor: pointer;
 }
 
-.joinBtn:hover {
+#btn:hover {
     background-color: yellow;
 	color:black;
 	border-radius:30px;
